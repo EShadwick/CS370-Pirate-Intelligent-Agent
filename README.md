@@ -94,4 +94,4 @@ I used Anthropic's Claude to assist with this project. Specifically, it helped m
 
 Anthropic. (2026, August 2). *CS370 Project* [Generative AI chat]. Claude. https://claude.ai/share/95d98f29-91e7-4cac-8d83-6d6ac0312366
 
-Anthropic. (2026, August 13). *<TITLE OF THIS CHAT>* [Generative AI chat]. Claude. <SHARE LINK FOR THIS CHAT>
+Anthropic. (2026, August 13). *GitHub Help* [Generative AI chat]. Claude. [<SHARE LINK FOR THIS CHAT>](https://claude.ai/share/23544750-4dcf-4ca1-a6bf-d26287a9cef8)
