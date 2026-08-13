@@ -1,0 +1,38 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+profile_default/
+ipython_config.py
+
+# Saved models and weights
+*.h5
+*.keras
+*.ckpt
+checkpoints/
+model.json
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Microsoft Office lock files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
